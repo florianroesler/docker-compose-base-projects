@@ -1,0 +1,3 @@
+bundle
+
+rails s
